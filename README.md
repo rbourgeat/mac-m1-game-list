@@ -9,6 +9,14 @@ Theses Games work on Mac M1 with [Wine](https://github.com/wine-mirror/wine), bu
 |       GTA 5      |LEGO Star Wars - The...|
 | ![Generic badge](https://img.shields.io/badge/Working-Perfect-green.svg)|![Generic badge](https://img.shields.io/badge/Working-Perfect-green.svg)|
 
+## Parallels
+Theses Games work on Windows Virtual Machine (Emulation).
+
+| ![Fallout 4](https://github.com/rbourgeat/mac-m1-game-list/blob/main/images/fallout4.jpeg)|
+| :--------------: |
+|   Fallout 4      |
+| ![Generic badge](https://img.shields.io/badge/Working-Good-orange.svg)|
+
 ## Rosetta 2
 Theses Games work on Mac Intel natively and run perfectly with Rosetta 2 emulation.
 
