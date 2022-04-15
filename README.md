@@ -16,7 +16,7 @@ The probleme is that you need to create your own bottle and install dependencies
 ## Parallels 17
 Theses Games work on Windows Virtual Machine (Emulation).
 
-The probleme is that Parallels 17 has only 4 cpu and 8 ram....
+The probleme is that Parallels 17 is limited at only 4 cpu and 8 ram....
 
 | ![Fallout 4](https://github.com/rbourgeat/mac-m1-game-list/blob/main/images/fallout4.jpeg)|![Temtem](https://github.com/rbourgeat/mac-m1-game-list/blob/main/images/temtem.jpeg)|![The Witcher 3](https://github.com/rbourgeat/mac-m1-game-list/blob/main/images/thewitcher3.jpeg)|
 | :--------------: |:--------------:|:--------------:|
@@ -26,10 +26,13 @@ The probleme is that Parallels 17 has only 4 cpu and 8 ram....
 ## Rosetta 2
 Theses Games work on Mac Intel natively and run perfectly with Rosetta 2 emulation.
 
-| ![Minecraft](https://github.com/rbourgeat/mac-m1-game-list/blob/main/images/minecraft.png)| ![League of Legends](https://github.com/rbourgeat/mac-m1-game-list/blob/main/images/leagueoflegends.png)|![Path of Exile](https://github.com/rbourgeat/mac-m1-game-list/blob/main/images/pathofexile.jpeg)|![The Elder Scrolls Online](https://github.com/rbourgeat/mac-m1-game-list/blob/main/images/theelderscrollsonline.jpg)|![Hearthstone](https://github.com/rbourgeat/mac-m1-game-list/blob/main/images/hearthstone.png)|
-| :--------------: |:---------------:| :---------------:|:---------------:|:---------------:|
-|    Minecraft     |League of Legends|  Path of Exile   |The Elder Scrolls Online|Hearthstone|
-| ![Generic badge](https://img.shields.io/badge/Working-Perfect-green.svg)|![Generic badge](https://img.shields.io/badge/Working-Perfect-green.svg)|![Generic badge](https://img.shields.io/badge/Working-Perfect-green.svg)|![Generic badge](https://img.shields.io/badge/Working-Perfect-green.svg)|![Generic badge](https://img.shields.io/badge/Working-Perfect-green.svg)|
+| ![Minecraft](https://github.com/rbourgeat/mac-m1-game-list/blob/main/images/minecraft.png)| ![League of Legends](https://github.com/rbourgeat/mac-m1-game-list/blob/main/images/leagueoflegends.png)|![Path of Exile](https://github.com/rbourgeat/mac-m1-game-list/blob/main/images/pathofexile.jpeg)|
+| :--------------: |:---------------:| :---------------:|
+|    Minecraft     |League of Legends|  Path of Exile   |
+| ![Generic badge](https://img.shields.io/badge/Working-Perfect-green.svg)|![Generic badge](https://img.shields.io/badge/Working-Perfect-green.svg)|![Generic badge](https://img.shields.io/badge/Working-Perfect-green.svg)|
+| ![The Elder Scrolls Online](https://github.com/rbourgeat/mac-m1-game-list/blob/main/images/theelderscrollsonline.jpg)|![Hearthstone](https://github.com/rbourgeat/mac-m1-game-list/blob/main/images/hearthstone.png)|![Dying Light](https://github.com/rbourgeat/mac-m1-game-list/blob/main/images/dyinglight.jpeg)|
+| The Elder Scrolls Online|Hearthstone|Dying Light|
+| ![Generic badge](https://img.shields.io/badge/Working-Perfect-green.svg)|![Generic badge](https://img.shields.io/badge/Working-Perfect-green.svg)|![Generic badge](https://img.shields.io/badge/Working-Perfect-green.svg)|
 
 ## Color code (Working Badge)
 Rating is based to MacBook Pro M1 Max
