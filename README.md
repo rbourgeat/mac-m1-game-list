@@ -20,10 +20,10 @@ Theses Games work on Windows Virtual Machine (Emulation).
 ## Rosetta 2
 Theses Games work on Mac Intel natively and run perfectly with Rosetta 2 emulation.
 
-| ![Minecraft](https://github.com/rbourgeat/mac-m1-game-list/blob/main/images/minecraft.png)| ![League of Legends](https://github.com/rbourgeat/mac-m1-game-list/blob/main/images/leagueoflegends.png)|![Path of Exile](https://github.com/rbourgeat/mac-m1-game-list/blob/main/images/pathofexile.jpeg)|
-| :--------------: |:---------------:| :---------------:|
-|    Minecraft     |League of Legends|  Path of Exile   |
-| ![Generic badge](https://img.shields.io/badge/Working-Perfect-green.svg)|![Generic badge](https://img.shields.io/badge/Working-Perfect-green.svg)|![Generic badge](https://img.shields.io/badge/Working-Perfect-green.svg)|
+| ![Minecraft](https://github.com/rbourgeat/mac-m1-game-list/blob/main/images/minecraft.png)| ![League of Legends](https://github.com/rbourgeat/mac-m1-game-list/blob/main/images/leagueoflegends.png)|![Path of Exile](https://github.com/rbourgeat/mac-m1-game-list/blob/main/images/pathofexile.jpeg)|![The Elder Scrolls Online](https://github.com/rbourgeat/mac-m1-game-list/blob/main/images/theelderscrollsonline.jpg)
+| :--------------: |:---------------:| :---------------:|:---------------:|
+|    Minecraft     |League of Legends|  Path of Exile   |The Elder Scrolls Online|
+| ![Generic badge](https://img.shields.io/badge/Working-Perfect-green.svg)|![Generic badge](https://img.shields.io/badge/Working-Perfect-green.svg)|![Generic badge](https://img.shields.io/badge/Working-Perfect-green.svg)|![Generic badge](https://img.shields.io/badge/Working-Perfect-green.svg)|
 
 ## Color code (Working Badge)
 Rating is based to MacBook Pro M1 Max
