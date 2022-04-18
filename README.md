@@ -24,15 +24,27 @@ The probleme is that Parallels 17 is limited at only 4 cpu and 8 ram....
 | ![Generic badge](https://img.shields.io/badge/Working-Good-yellow.svg)|![Generic badge](https://img.shields.io/badge/Working-Good-yellow.svg)|![Generic badge](https://img.shields.io/badge/Working-Good-yellow.svg)|
 
 ## Rosetta 2
-Theses Games work on Mac Intel natively and run perfectly with Rosetta 2 emulation.
+Theses Games work on Mac Intel natively or run perfectly with Rosetta 2 include emulation.
 
-| ![Minecraft](https://github.com/rbourgeat/mac-m1-game-list/blob/main/images/minecraft.png)| ![League of Legends](https://github.com/rbourgeat/mac-m1-game-list/blob/main/images/leagueoflegends.png)|![Path of Exile](https://github.com/rbourgeat/mac-m1-game-list/blob/main/images/pathofexile.jpeg)|
+| ![Humankind](https://github.com/rbourgeat/mac-m1-game-list/blob/main/images/humankind.jpeg)| ![League of Legends](https://github.com/rbourgeat/mac-m1-game-list/blob/main/images/leagueoflegends.png)|![Path of Exile](https://github.com/rbourgeat/mac-m1-game-list/blob/main/images/pathofexile.jpeg)|
 | :--------------: |:---------------:| :---------------:|
-|    Minecraft     |League of Legends|  Path of Exile   |
+|    Humankind     |League of Legends|  Path of Exile   |
 | ![Generic badge](https://img.shields.io/badge/Working-Perfect-green.svg)|![Generic badge](https://img.shields.io/badge/Working-Perfect-green.svg)|![Generic badge](https://img.shields.io/badge/Working-Perfect-green.svg)|
 | ![The Elder Scrolls Online](https://github.com/rbourgeat/mac-m1-game-list/blob/main/images/theelderscrollsonline.jpg)|![Hearthstone](https://github.com/rbourgeat/mac-m1-game-list/blob/main/images/hearthstone.png)|![Dying Light](https://github.com/rbourgeat/mac-m1-game-list/blob/main/images/dyinglight.jpeg)|
 | The Elder Scrolls Online|Hearthstone|Dying Light|
 | ![Generic badge](https://img.shields.io/badge/Working-Perfect-green.svg)|![Generic badge](https://img.shields.io/badge/Working-Perfect-green.svg)|![Generic badge](https://img.shields.io/badge/Working-Perfect-green.svg)|
+| ![The Sims 4](https://github.com/rbourgeat/mac-m1-game-list/blob/main/images/thesims4.jpeg)|![Rimworld](https://github.com/rbourgeat/mac-m1-game-list/blob/main/images/rimworld.jpeg)|![Factorio](https://github.com/rbourgeat/mac-m1-game-list/blob/main/images/factorio.jpeg)|
+| The Sims 4       |Rimworld|Factorio|
+| ![Generic badge](https://img.shields.io/badge/Working-Perfect-green.svg)|![Generic badge](https://img.shields.io/badge/Working-Perfect-green.svg)|![Generic badge](https://img.shields.io/badge/Working-Perfect-green.svg)|
+| ![Minecraft](https://github.com/rbourgeat/mac-m1-game-list/blob/main/images/minecraft.png)|
+|    Minecraft     |
+| ![Generic badge](https://img.shields.io/badge/Working-Perfect-green.svg)|
+
+## PCS3: a PS3 emulator
+These emulator work perfectly on Mac M1, you can run many ps3 games. [Source code on Github here.](https://github.com/nastys/rpcs3)
+
+## PCSX2: a PS2 emulator
+These emulator work perfectly on Mac M1, you can run many ps2 games. [Source code on Github here.](https://github.com/tellowkrinkle/pcsx2)
 
 ## Color code (Working Badge)
 Rating is based to MacBook Pro M1 Max
