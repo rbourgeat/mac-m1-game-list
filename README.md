@@ -1,7 +1,7 @@
 # Mac M1 Game List
 A WIP Game List working on mac M1 Max (and tested) with Crossover, Parallels or Rosetta 2 ([Color Code (Working Badge)](https://github.com/rbourgeat/mac-m1-game-list/edit/main/README.md#color-code-working-badge)).
 If the game is better on Crossover than Parallels, i display it only in Crossover list.
-However if the game is instable on Crossover, i display it only in the Parallels list.
+However if the game is instable on Crossover but better on Parallels, i display it only in the Parallels list.
 
 ## Crossover
 Theses Games work on Mac M1 with [Wine](https://github.com/wine-mirror/wine), build with Crossover.
@@ -11,17 +11,20 @@ The probleme is that you need to create your own bottle and install dependencies
 | ![GTA 5](https://github.com/rbourgeat/mac-m1-game-list/blob/main/images/gta5.jpeg)| ![LEGO Star Wars - The Skywalker Saga](https://github.com/rbourgeat/mac-m1-game-list/blob/main/images/LEGOStarWars-TheSkywalkerSaga.jpeg)|
 | :--------------: |:---------------:|
 |       GTA 5      |LEGO Star Wars - The...|
-| ![Generic badge](https://img.shields.io/badge/Working-Perfect-green.svg)|![Generic badge](https://img.shields.io/badge/Working-Perfect-green.svg)|
+| ![Generic badge](https://img.shields.io/badge/Working-Good-yellow.svg)|![Generic badge](https://img.shields.io/badge/Working-Perfect-green.svg)|
 
 ## Parallels 17
 Theses Games work on Windows Virtual Machine (Emulation).
 
 The probleme is that Parallels 17 is limited at only 4 cpu and 8 ram....
 
-| ![Fallout 4](https://github.com/rbourgeat/mac-m1-game-list/blob/main/images/fallout4.jpeg)|![Temtem](https://github.com/rbourgeat/mac-m1-game-list/blob/main/images/temtem.jpeg)|![The Witcher 3](https://github.com/rbourgeat/mac-m1-game-list/blob/main/images/thewitcher3.jpeg)|
+| ![Fallout 4](https://github.com/rbourgeat/mac-m1-game-list/blob/main/images/fallout4.jpeg)|![Temtem](https://github.com/rbourgeat/mac-m1-game-list/blob/main/images/temtem.jpeg)|![Warframe](https://github.com/rbourgeat/mac-m1-game-list/blob/main/images/warframe.jpg)|
 | :--------------: |:--------------:|:--------------:|
-|   Fallout 4      |Temtem|The Witcher 3|
-| ![Generic badge](https://img.shields.io/badge/Working-Good-yellow.svg)|![Generic badge](https://img.shields.io/badge/Working-Good-yellow.svg)|![Generic badge](https://img.shields.io/badge/Working-Good-yellow.svg)|
+|   Fallout 4      |Temtem|Warframe|
+| ![Generic badge](https://img.shields.io/badge/Working-Good-yellow.svg)|![Generic badge](https://img.shields.io/badge/Working-Good-yellow.svg)|![Generic badge](https://img.shields.io/badge/Working-Normal-orange.svg)|
+|![The Witcher 3](https://github.com/rbourgeat/mac-m1-game-list/blob/main/images/thewitcher3.jpeg)|
+|The Witcher 3|
+|![Generic badge](https://img.shields.io/badge/Working-Good-yellow.svg)|
 
 ## Rosetta 2
 Theses Games work on Mac Intel natively or run perfectly with Rosetta 2 include emulation.
@@ -36,15 +39,21 @@ Theses Games work on Mac Intel natively or run perfectly with Rosetta 2 include 
 | ![The Sims 4](https://github.com/rbourgeat/mac-m1-game-list/blob/main/images/thesims4.jpeg)|![Rimworld](https://github.com/rbourgeat/mac-m1-game-list/blob/main/images/rimworld.jpeg)|![Factorio](https://github.com/rbourgeat/mac-m1-game-list/blob/main/images/factorio.jpeg)|
 | The Sims 4       |Rimworld|Factorio|
 | ![Generic badge](https://img.shields.io/badge/Working-Perfect-green.svg)|![Generic badge](https://img.shields.io/badge/Working-Perfect-green.svg)|![Generic badge](https://img.shields.io/badge/Working-Perfect-green.svg)|
-| ![Minecraft](https://github.com/rbourgeat/mac-m1-game-list/blob/main/images/minecraft.png)|
-|    Minecraft     |
-| ![Generic badge](https://img.shields.io/badge/Working-Perfect-green.svg)|
+| ![Minecraft](https://github.com/rbourgeat/mac-m1-game-list/blob/main/images/minecraft.png)| ![Bo3](https://github.com/rbourgeat/mac-m1-game-list/blob/main/images/bo3.jpg)| ![Dysmantle](https://github.com/rbourgeat/mac-m1-game-list/blob/main/images/dysmantle.jpg)|
+|    Minecraft     | Call of Duty: Bo3 | Dysmantle |
+| ![Generic badge](https://img.shields.io/badge/Working-Perfect-green.svg)| ![Generic badge](https://img.shields.io/badge/Working-Perfect-green.svg)|![Generic badge](https://img.shields.io/badge/Working-Perfect-green.svg)|
 
 ## PCS3: a PS3 emulator
 These emulator work perfectly on Mac M1, you can run many ps3 games. [Source code on Github here.](https://github.com/nastys/rpcs3)
 
 ## PCSX2: a PS2 emulator
 These emulator work perfectly on Mac M1, you can run many ps2 games. [Source code on Github here.](https://github.com/tellowkrinkle/pcsx2)
+
+## Citra: a Nintendo 3DS emulator
+These emulator work perfectly on Mac M1, you can run many nintendo games. [Source code on Github here.](https://github.com/citra-emu/citra)
+
+## OpenEmu: an old gen console emulator
+These emulator work perfectly on Mac M1, you can run many gba, nes, etc... games. [Source code on Github here.](https://github.com/OpenEmu/OpenEmu)
 
 ## Color code (Working Badge)
 Rating is based to MacBook Pro M1 Max
