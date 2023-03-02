@@ -1,5 +1,5 @@
 # Mac M1 Game List
-A WIP Game List working on mac M1 Max (and tested) with Crossover, Parallels or Rosetta 2 ([Color Code (Working Badge)](https://github.com/rbourgeat/mac-m1-game-list/edit/main/README.md#color-code-working-badge)).
+A WIP Game List working on mac M1 Max (and tested) with Crossover, Parallels or Rosetta 2 ([Color Code (Working Badge)](https://github.com/rbourgeat/mac-m1-game-list#color-code-working-badge)).
 If the game is better on Crossover than Parallels, i display it only in Crossover list.
 However if the game is instable on Crossover but better on Parallels, i display it only in the Parallels list.
 
