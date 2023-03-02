@@ -16,15 +16,17 @@ The probleme is that you need to create your own bottle and install dependencies
 ## Parallels 17
 Theses Games work on Windows Virtual Machine (Emulation).
 
-The probleme is that Parallels 17 is limited at only 4 cpu and 8 ram....
+The probleme is that Parallels 17 is limited at only 4 cpu and 8 Go of ram....
+
+But... It's easy to install mods !
 
 | ![Fallout 4](https://github.com/rbourgeat/mac-m1-game-list/blob/main/images/fallout4.jpeg)|![Temtem](https://github.com/rbourgeat/mac-m1-game-list/blob/main/images/temtem.jpeg)|![Warframe](https://github.com/rbourgeat/mac-m1-game-list/blob/main/images/warframe.jpg)|
 | :--------------: |:--------------:|:--------------:|
 |   Fallout 4      |Temtem|Warframe|
 | ![Generic badge](https://img.shields.io/badge/Working-Good-yellow.svg)|![Generic badge](https://img.shields.io/badge/Working-Good-yellow.svg)|![Generic badge](https://img.shields.io/badge/Working-Normal-orange.svg)|
-|![The Witcher 3](https://github.com/rbourgeat/mac-m1-game-list/blob/main/images/thewitcher3.jpeg)|
-|The Witcher 3|
-|![Generic badge](https://img.shields.io/badge/Working-Good-yellow.svg)|
+|![The Witcher 3](https://github.com/rbourgeat/mac-m1-game-list/blob/main/images/thewitcher3.jpeg)|![Skyrim](https://github.com/rbourgeat/mac-m1-game-list/blob/main/images/skyrim.jpeg)|
+|The Witcher 3| Skyrim |
+|![Generic badge](https://img.shields.io/badge/Working-Good-yellow.svg)|![Generic badge](https://img.shields.io/badge/Working-Perfect-green.svg)|
 
 ## Rosetta 2
 Theses Games work on Mac Intel natively or run perfectly with Rosetta 2 include emulation.
@@ -44,6 +46,9 @@ Theses Games work on Mac Intel natively or run perfectly with Rosetta 2 include 
 | ![Generic badge](https://img.shields.io/badge/Working-Perfect-green.svg)| ![Generic badge](https://img.shields.io/badge/Working-Perfect-green.svg)|![Generic badge](https://img.shields.io/badge/Working-Perfect-green.svg)|
 | ![Civilisation VI](https://github.com/rbourgeat/mac-m1-game-list/blob/main/images/civilisation-6.jpeg)| ![Redsident Evil Village](https://github.com/rbourgeat/mac-m1-game-list/blob/main/images/resident-evil-village.jpeg)|![Terraria](https://github.com/rbourgeat/mac-m1-game-list/blob/main/images/terraria.jpeg)|
 | Civilisation VI  |Redsident Evil Village|Terraria|
+| ![Generic badge](https://img.shields.io/badge/Working-Perfect-green.svg)|![Generic badge](https://img.shields.io/badge/Working-Perfect-green.svg)|![Generic badge](https://img.shields.io/badge/Working-Perfect-green.svg)|
+| ![Dofus](https://github.com/rbourgeat/mac-m1-game-list/blob/main/images/dofus.jpeg)| ![Wakfu](https://github.com/rbourgeat/mac-m1-game-list/blob/main/images/wakfu.jpeg)|![Waven](https://github.com/rbourgeat/mac-m1-game-list/blob/main/images/waven.jpeg)|
+| Dofus  |Wakfu|Waven|
 | ![Generic badge](https://img.shields.io/badge/Working-Perfect-green.svg)|![Generic badge](https://img.shields.io/badge/Working-Perfect-green.svg)|![Generic badge](https://img.shields.io/badge/Working-Perfect-green.svg)|
 
 ## Ryujinx: a SWITCH emulator
