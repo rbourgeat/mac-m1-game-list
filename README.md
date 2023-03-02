@@ -42,6 +42,9 @@ Theses Games work on Mac Intel natively or run perfectly with Rosetta 2 include 
 | ![Minecraft](https://github.com/rbourgeat/mac-m1-game-list/blob/main/images/minecraft.png)| ![Bo3](https://github.com/rbourgeat/mac-m1-game-list/blob/main/images/bo3.jpg)| ![Dysmantle](https://github.com/rbourgeat/mac-m1-game-list/blob/main/images/dysmantle.jpg)|
 |    Minecraft     | Call of Duty: Bo3 | Dysmantle |
 | ![Generic badge](https://img.shields.io/badge/Working-Perfect-green.svg)| ![Generic badge](https://img.shields.io/badge/Working-Perfect-green.svg)|![Generic badge](https://img.shields.io/badge/Working-Perfect-green.svg)|
+| ![Civilisation VI](https://github.com/rbourgeat/mac-m1-game-list/blob/main/images/civilisation-6.jpeg)| ![Redsident Evil Village](https://github.com/rbourgeat/mac-m1-game-list/blob/main/images/resident-evil-village.jpeg)|![Terraria](https://github.com/rbourgeat/mac-m1-game-list/blob/main/images/terraria.jpeg)|
+| Civilisation VI  |Redsident Evil Village|Terraria|
+| ![Generic badge](https://img.shields.io/badge/Working-Perfect-green.svg)|![Generic badge](https://img.shields.io/badge/Working-Perfect-green.svg)|![Generic badge](https://img.shields.io/badge/Working-Perfect-green.svg)|
 
 ## Ryujinx: a SWITCH emulator
 These emulator work perfectly on Mac M1, you can run many Switch games. [Download here.](https://ryujinx.org/download)
