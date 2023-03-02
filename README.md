@@ -68,6 +68,6 @@ Rating is based to MacBook Pro M1 Max
 
 ![Generic badge](https://img.shields.io/badge/Working-Good-yellow.svg) 👉🏻 up to maximum graphics
 
-![Generic badge](https://img.shields.io/badge/Working-Normal-orange.svg) 👉🏻 up to medium graphics
+![Generic badge](https://img.shields.io/badge/Working-Normal-orange.svg) 👉🏻 up to medium graphics or maximum graphics but at ~25fps
 
 ![Generic badge](https://img.shields.io/badge/Working-Bad-red.svg) 👉🏻 set minimum graphics but it's playable
