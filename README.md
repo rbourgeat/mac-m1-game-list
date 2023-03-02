@@ -50,6 +50,9 @@ Theses Games work on Mac natively or run perfectly with Rosetta 2 include emulat
 | ![Dofus](https://github.com/rbourgeat/mac-m1-game-list/blob/main/images/dofus.jpeg)| ![Wakfu](https://github.com/rbourgeat/mac-m1-game-list/blob/main/images/wakfu.jpeg)|![Waven](https://github.com/rbourgeat/mac-m1-game-list/blob/main/images/waven.jpeg)|
 | Dofus  |Wakfu|Waven|
 | ![Generic badge](https://img.shields.io/badge/Working-Perfect-green.svg)|![Generic badge](https://img.shields.io/badge/Working-Perfect-green.svg)|![Generic badge](https://img.shields.io/badge/Working-Perfect-green.svg)|
+| ![Cult of The Lamb](https://github.com/rbourgeat/mac-m1-game-list/blob/main/images/cult-of-the-lamb.jpeg)| ![Wakfu](https://github.com/rbourgeat/mac-m1-game-list/blob/main/images/dota-underlords.jpeg)|![Waven](https://github.com/rbourgeat/mac-m1-game-list/blob/main/images/dota.jpeg)|
+|Cult of The Lamb|Dota Underlords|Dota 2|
+| ![Generic badge](https://img.shields.io/badge/Working-Perfect-green.svg)|![Generic badge](https://img.shields.io/badge/Working-Perfect-green.svg)|![Generic badge](https://img.shields.io/badge/Working-Perfect-green.svg)|
 
 ## Ryujinx: a SWITCH emulator
 These emulator work perfectly on Mac M1, you can run many Switch games. [Download here.](https://ryujinx.org/download)
