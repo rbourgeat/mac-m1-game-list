@@ -28,8 +28,8 @@ But... It's easy to install mods !
 |The Witcher 3| Skyrim |
 |![Generic badge](https://img.shields.io/badge/Working-Good-yellow.svg)|![Generic badge](https://img.shields.io/badge/Working-Perfect-green.svg)|
 
-## Rosetta 2
-Theses Games work on Mac Intel natively or run perfectly with Rosetta 2 include emulation.
+## Rosetta 2 (or Native)
+Theses Games work on Mac natively or run perfectly with Rosetta 2 include emulation.
 
 | ![Humankind](https://github.com/rbourgeat/mac-m1-game-list/blob/main/images/humankind.jpeg)| ![League of Legends](https://github.com/rbourgeat/mac-m1-game-list/blob/main/images/leagueoflegends.png)|![Path of Exile](https://github.com/rbourgeat/mac-m1-game-list/blob/main/images/pathofexile.jpeg)|
 | :--------------: |:---------------:| :---------------:|
