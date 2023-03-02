@@ -8,10 +8,10 @@ Theses Games work on Mac M1 with [Wine](https://github.com/wine-mirror/wine), bu
 
 The probleme is that you need to create your own bottle and install dependencies manually (most of the time you need to install steam + dxvk + directx for modern games or directx 9 if its an old game)
 
-| ![GTA 5](https://github.com/rbourgeat/mac-m1-game-list/blob/main/images/gta5.jpeg)| ![LEGO Star Wars - The Skywalker Saga](https://github.com/rbourgeat/mac-m1-game-list/blob/main/images/LEGOStarWars-TheSkywalkerSaga.jpeg)|
-| :--------------: |:---------------:|
-|       GTA 5      |LEGO Star Wars - The...|
-| ![Generic badge](https://img.shields.io/badge/Working-Good-yellow.svg)|![Generic badge](https://img.shields.io/badge/Working-Perfect-green.svg)|
+| ![GTA 5](https://github.com/rbourgeat/mac-m1-game-list/blob/main/images/gta5.jpeg)| ![LEGO Star Wars - The Skywalker Saga](https://github.com/rbourgeat/mac-m1-game-list/blob/main/images/LEGOStarWars-TheSkywalkerSaga.jpeg)| ![The Sons of The Forest](https://github.com/rbourgeat/mac-m1-game-list/blob/main/images/The-Sons-of-The-Forest.jpeg)|
+| :--------------: |:---------------:|:---------------:|
+|       GTA 5      |LEGO Star Wars - The...| The Sons of The Forest|
+| ![Generic badge](https://img.shields.io/badge/Working-Good-yellow.svg)|![Generic badge](https://img.shields.io/badge/Working-Perfect-green.svg)|![Generic badge](https://img.shields.io/badge/Working-Normal-orange.svg)|
 
 ## Parallels 17
 Theses Games work on Windows Virtual Machine (Emulation).
@@ -42,6 +42,9 @@ Theses Games work on Mac Intel natively or run perfectly with Rosetta 2 include 
 | ![Minecraft](https://github.com/rbourgeat/mac-m1-game-list/blob/main/images/minecraft.png)| ![Bo3](https://github.com/rbourgeat/mac-m1-game-list/blob/main/images/bo3.jpg)| ![Dysmantle](https://github.com/rbourgeat/mac-m1-game-list/blob/main/images/dysmantle.jpg)|
 |    Minecraft     | Call of Duty: Bo3 | Dysmantle |
 | ![Generic badge](https://img.shields.io/badge/Working-Perfect-green.svg)| ![Generic badge](https://img.shields.io/badge/Working-Perfect-green.svg)|![Generic badge](https://img.shields.io/badge/Working-Perfect-green.svg)|
+
+## Ryujinx: a SWITCH emulator
+These emulator work perfectly on Mac M1, you can run many Switch games. [Download here.](https://ryujinx.org/download)
 
 ## PCS3: a PS3 emulator
 These emulator work perfectly on Mac M1, you can run many ps3 games. [Source code on Github here.](https://github.com/nastys/rpcs3)
