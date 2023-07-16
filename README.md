@@ -56,6 +56,9 @@ Theses Games work on Mac natively or run perfectly with Rosetta 2 include emulat
 | ![Crusader King 2](https://github.com/rbourgeat/mac-m1-game-list/blob/main/images/ck2.jpeg)| ![Wakfu](https://github.com/rbourgeat/mac-m1-game-list/blob/main/images/ck3.jpeg)|![Naheulbeuk](https://github.com/rbourgeat/mac-m1-game-list/blob/main/images/naheulbeuk.jpeg)|
 |Crusader King 2|Crusader King 3|The Donjon of Naheulbeuk|
 |![Generic badge](https://img.shields.io/badge/Free-green.svg) ![Generic badge](https://img.shields.io/badge/Working-Perfect-green.svg)|![Generic badge](https://img.shields.io/badge/Paid-red.svg) ![Generic badge](https://img.shields.io/badge/Working-Perfect-green.svg)|![Generic badge](https://img.shields.io/badge/Paid-red.svg) ![Generic badge](https://img.shields.io/badge/Working-Perfect-green.svg)|
+| ![No Man's Sky](https://github.com/rbourgeat/mac-m1-game-list/blob/main/images/no-man-s-sky.jpg)| ![The Colonists](https://github.com/rbourgeat/mac-m1-game-list/blob/main/images/the-colonists.jpg)|![Stellaris](https://github.com/rbourgeat/mac-m1-game-list/blob/main/images/stellaris.jpg)|
+|No Man's Sky|The Colonists|Stellaris|
+|![Generic badge](https://img.shields.io/badge/Paid-red.svg) ![Generic badge](https://img.shields.io/badge/Working-Perfect-green.svg)|![Generic badge](https://img.shields.io/badge/Paid-red.svg) ![Generic badge](https://img.shields.io/badge/Working-Perfect-green.svg)|![Generic badge](https://img.shields.io/badge/Paid-red.svg) ![Generic badge](https://img.shields.io/badge/Working-Perfect-green.svg)|
 
 
 ## <img src="https://user-images.githubusercontent.com/40271833/222729643-aa973413-0fb9-4936-a78c-5155c3a7c00c.png" width="25" height="25"> Ryujinx: a SWITCH emulator
